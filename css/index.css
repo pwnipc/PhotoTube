@@ -24,7 +24,7 @@ body {
     display: block;
     color: black;
     padding: 16px;
-    text-decoration: none;
+    
   }
   a:hover {
       background-color: red;
@@ -50,7 +50,28 @@ body {
       border-style: dotted;
       border-left-color: red;
       border-top-color: red;
+
   }
   #rd {
       color: red;
   }
+img {
+  height: 200px;
+  display: inline;
+  
+}
+.box {
+  padding: 0;
+  margin: 10px;
+  border: solid 1px;
+  background-color: grey;
+}
+.box p{
+  float: right;
+  width: 60%;
+  display: inline;
+}
+
+.box:hover {
+  background-color: black;
+}
