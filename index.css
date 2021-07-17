@@ -1,0 +1,22 @@
+body {
+    color: chartreuse;
+    background-color: black;
+}
+.sidebar {
+    width: 200px;
+    border: dotted;
+    border-top: none;
+    border-left: none ;
+}
+.sidebar a{
+    display: block;
+    color: white;
+    padding: 10px;
+}
+.sidebar a:hover{
+    background-color: red;
+}
+.sidebar a.static {
+    background-color: red;
+}
+
