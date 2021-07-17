@@ -1,22 +1,51 @@
+*{
+    font-family:courier,arial,helvetica;
+}
 body {
-    color: chartreuse;
+    margin: 0;
     background-color: black;
-}
-.sidebar {
+    color: greenyellow;
+  }
+  
+  body p {
+      color: white;
+  }
+  .sidenavbar {
+    margin: 0;
+    padding: 0;
     width: 200px;
-    border: dotted;
-    border-top: none;
-    border-left: none ;
-}
-.sidebar a{
+    background-color: grey;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  
+  .sidenavbar a {
     display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+  }
+  a:hover {
+      background-color: red;
+      color: white;
+  }
+   
+  .sidenavbar a.static {
+    background-color: red;
     color: white;
-    padding: 10px;
-}
-.sidebar a:hover{
-    background-color: red;
-}
-.sidebar a.static {
-    background-color: red;
-}
+  }
+  
+  
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+  }
 
+  h1 {
+      text-align: center;
+  }
+  #rd {
+      color: red;
+  }
