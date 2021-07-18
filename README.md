@@ -50,8 +50,8 @@ ________________________________________________________________________________
 
 ## Project Design
 
+![image](https://user-images.githubusercontent.com/60155767/126078269-0ace2788-d85a-442b-80f5-b367551c40b0.png)
 
-![](https://www.figma.com/community/file/998653945202682985/PhotoTube)
 
 
 ## Contact Developer
