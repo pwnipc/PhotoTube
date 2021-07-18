@@ -14,7 +14,7 @@ body {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: white;
+    background-color: darkgrey;
     position: fixed;
     height: 100%;
     overflow: auto;
