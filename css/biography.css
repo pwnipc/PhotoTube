@@ -1,3 +1,56 @@
-h1 {
-    color: chartreuse  ;
+body {
+    margin: 0;
+  }
+
+.sidenavbar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: darkgrey;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    border-style: dotted red;
+  }
+  
+  .sidenavbar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    
+  }
+  a:hover {
+      background-color: red;
+      color: white;
+  }
+   
+  .sidenavbar a.static {
+    background-color: red;
+    color: black;
+  }
+
+    
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 700px;
+  }
+  
+
+  h1 {
+    text-align: center;
+    margin: 10px;
+    padding: 0;
+    border-style: dotted;
+    border-left-color: red;
+    border-top-color: red;
+
+}
+
+#rd {
+    color: red;
+}
+
+h2 {
+    text-align: center;
 }
