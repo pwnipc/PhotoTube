@@ -36,6 +36,12 @@ body {
       width: 150px;
   }
 
+  .contactIcons img {
+      margin: auto;
+      display: block;
+      width: 50px;
+      padding: 20px;
+  }
     
   div.content {
     margin-left: 200px;
