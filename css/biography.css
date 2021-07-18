@@ -41,6 +41,24 @@ body {
       display: block;
       width: 50px;
       padding: 20px;
+      border-style: dotted ;
+      border-color: red;
+  }
+
+  .contactIcons p {
+      text-align: center;
+      border-style: dotted;
+      font-size: 20px;
+  }
+
+  .contactIcons img:hover {
+      background-color: chartreuse;
+  }
+
+  .contactIcons p:hover {
+      background-color: red;
+      margin: 10px;
+      border-style: dotted;
   }
     
   div.content {
@@ -58,6 +76,10 @@ body {
     border-left-color: red;
     border-top-color: red;
 
+}
+
+h1:hover {
+    background-color: chartreuse;
 }
 
 #rd {
