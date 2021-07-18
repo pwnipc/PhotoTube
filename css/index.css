@@ -14,10 +14,11 @@ body {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: grey;
+    background-color: white;
     position: fixed;
     height: 100%;
     overflow: auto;
+    border-style: dotted red;
   }
   
   .sidenavbar a {
@@ -33,7 +34,7 @@ body {
    
   .sidenavbar a.static {
     background-color: red;
-    color: white;
+    color: black;
   }
   
   
@@ -57,6 +58,9 @@ body {
   }
 img {
   height: 200px;
+  width: 250px;
+  border: solid red ;
+  border-style: dotted;
   display: inline;
   
 }
@@ -64,7 +68,8 @@ img {
   padding: 0;
   margin: 10px;
   border: solid 1px;
-  background-color: grey;
+  border-style: dotted;
+  background-color: black;
 }
 .box p{
   float: right;
@@ -73,5 +78,6 @@ img {
 }
 
 .box:hover {
-  background-color: black;
+  background-color: darkgrey;
+  color: red;
 }
