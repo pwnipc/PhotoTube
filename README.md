@@ -33,8 +33,7 @@ Prototype url : https://www.figma.com/proto/BwF5yTCMX6VEavKKsFfSb0/PhotoTube?nod
 
 ## Contact Page
 
-![image](https://user-images.githubusercontent.com/60155767/126114212-b61e0f24-8a51-43b2-8c7f-7a771489d8a4.png)
-
+![image](https://user-images.githubusercontent.com/60155767/126133449-f0a86fa2-a274-4a86-9979-0a21a4a2fade.png)
 
 
 ## Contributions
