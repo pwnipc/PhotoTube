@@ -94,13 +94,13 @@ footer {
     text-align: center;
 }
 
-.contactForm {
+form {
     text-align: center;
     background-color: darkgrey;
     border: dotted;
     margin: 50px;
 }
-.contactForm:hover {
+form:hover {
     background-color: white;
     color: chartreuse;
 }
