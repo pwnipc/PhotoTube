@@ -1,4 +1,4 @@
-<a href="https://github.com/Chal13W1zz/PhotoTube/LICENCE">BSD 3-Clause License</a>
+<a href="https://github.com/Chal13W1zz/PhotoTube/blob/main/LICENSE">BSD 3-Clause License</a>
 
 Copyright (c) 2021, Chalie
 All rights reserved.
@@ -85,5 +85,7 @@ This website is purely made with HTML and CSS
 
 _____________________________________________________________________________________________________________________________________________________________
 
-## <a href="https://github.com/Chal13W1zz/PhotoTube/LICENCE">Licence</a>
-BSD 3-Clause © <a href="https://github.com/Chal13W1zz">Chalie</a>
+## <a href="https://github.com/Chal13W1zz/PhotoTube/blob/main/LICENSE">Licence</a>
+BSD 3-Clause 
+Copyright © 2021, <a href="https://github.com/Chal13W1zz">Chalie</a>
+All rights reserved.
