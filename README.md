@@ -50,7 +50,23 @@ ________________________________________________________________________________
 
 ## Project Design
 
+Prototype url : https://www.figma.com/proto/BwF5yTCMX6VEavKKsFfSb0/PhotoTube?node-id=1%3A2&scaling=scale-down
+
 ![image](https://user-images.githubusercontent.com/60155767/126113457-41742d6b-a7c1-43ac-906f-9ac9464eab88.png)
+
+## Landing Page
+![image](https://user-images.githubusercontent.com/60155767/126114521-0ade81fd-6f49-4678-b57f-89db64b26541.png)
+
+
+## Biography Page
+![image](https://user-images.githubusercontent.com/60155767/126114378-fc7bb5b1-e827-48f4-8143-c3c7459dc5a4.png)
+
+
+## Contact Page
+
+![image](https://user-images.githubusercontent.com/60155767/126114212-b61e0f24-8a51-43b2-8c7f-7a771489d8a4.png)
+
+
 
 
 
