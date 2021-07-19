@@ -1,39 +1,8 @@
-***********************************************************************************************************************************************************
+<a href="https://github.com/Chal13W1zz/PhotoTube/LICENCE">BSD 3-Clause License</a>
 
-BSD 3-Clause License
-
-Copyright (c) 2021, Chalie Wizz
+Copyright (c) 2021, Chalie
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
-
-
-**********************************************************************************************************************************************************
-
-//Code By Chalie 
 
 ___________________________________________________________________________________
 # PhotoTube
@@ -68,10 +37,34 @@ Prototype url : https://www.figma.com/proto/BwF5yTCMX6VEavKKsFfSb0/PhotoTube?nod
 
 
 
+## Contributions
+If you'd like to contribute.
+
+- Fork the repo
+- Create a new branch (git checkout -b feature)
+- Make the appropriate changes in the files
+- Add changes to reflect the changes made
+- Commit your changes (git commit -am 'Improve/Add feature')
+- Push to the branch (git push origin feature)
+- Create a Pull Request
+
+[Make sure your code is properly commented]
+
+If you find a bug, kindly open an issue <a href="https://github.com/Chal13W1zz/PhotoTube/issues/new">Here</a> .
+
+If you'd like to request a new function, feel free to do so by opening an issue <a href="https://github.com/Chal13W1zz/PhotoTube/issues/new">Here</a>.
+
+
+## Built With
+
+This website is purely made with HTML and CSS
 
 
 
-## Contact Developer
+## Developer & Maintainer
+
+![image](https://user-images.githubusercontent.com/60155767/126122799-e9618b66-f836-45fe-8b91-15139dc3c47b.png)
+
 
   <p>
    <a href="https://t.me/Chal13W1zz"><img align="left" alt="telegram.org" width="22px" 
@@ -89,3 +82,8 @@ Prototype url : https://www.figma.com/proto/BwF5yTCMX6VEavKKsFfSb0/PhotoTube?nod
   <a href="https://www.youtube.com/channel/UCYtzy_RI9Bp8CWgNZzTPUmA?sub_confirmation=1"><img align="left" alt="youtube.com" width="22px"
      src="https://seeklogo.com/images/Y/youtube-2017-icon-logo-D1FE045118-seeklogo.com.png" /></a>
   </p>
+
+_____________________________________________________________________________________________________________________________________________________________
+
+## <a href="https://github.com/Chal13W1zz/PhotoTube/LICENCE">Licence</a>
+BSD 3-Clause © <a href="https://github.com/Chal13W1zz">Chalie</a>
