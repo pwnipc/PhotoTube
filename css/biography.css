@@ -93,3 +93,14 @@ h2 {
 footer {
     text-align: center;
 }
+
+.contactForm {
+    text-align: center;
+    background-color: darkgrey;
+    border: dotted;
+    margin: 50px;
+}
+.contactForm:hover {
+    background-color: white;
+    color: chartreuse;
+}
